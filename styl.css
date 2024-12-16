@@ -1,0 +1,14 @@
+*{
+    background-color: lightgray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none !important;
+}
+.navbar{
+    text-align: center;
+    padding-top: 20px;
+    word-spacing: 20px;
+}
+.body-contnt{
+    padding-left: 20px;
+    padding-right: 800px;
+}
